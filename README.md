@@ -1,3 +1,4 @@
 # aula_projeto_vendas
 
-meu github é PedroAABR
+
+Meu github é https://github.com/PedroAABR
