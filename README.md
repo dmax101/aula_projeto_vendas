@@ -1,3 +1,13 @@
-# aula_projeto_vendas
+# Aula de Git (Plrojeto Vendas)
 
-https://github.com/tvinente
+## Alunos
+
+- Vinícius
+
+- Pedro 01
+
+- Pedro 02
+
+- [Danilo](https://github.com/dmax101/)
+
+- [Talyta](https://github.com/tvinente)
