@@ -1,10 +1,10 @@
-# Aula de Git (Plrojeto Vendas)
+# Aula de Git (Projeto Vendas)
 
 ## Alunos
 
 - Vinícius
 
-- Pedro 01
+- [Pedro 01](https://github.com/PedroAABR)
 
 - Pedro 02
 
